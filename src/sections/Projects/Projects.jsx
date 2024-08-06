@@ -31,9 +31,9 @@ function Projects() {
         />
         <ProjectCard
           src={blog}
-          link="https://github.com/AsifAnsar-i/mern-blog"
-          h3="Blog"
-          p="Blog Website"
+          link="https://github.com/AsifAnsar-i/Imaginify-SaaS-App-"
+          h3="Imaginify"
+          p="Saas App Website"
         />
         <ProjectCard
           src={socialmed}
