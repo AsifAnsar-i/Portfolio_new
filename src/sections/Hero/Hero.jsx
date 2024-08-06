@@ -40,7 +40,7 @@ function Hero() {
           <br />
           ANSARI
         </h1>
-        <h2>MERN Stack Developer</h2>
+        <h2>Web Developer</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
